@@ -34,8 +34,12 @@
  ##
  #### _Minhas Redes_ 🤝🏾
 <div>       	 
-  <a href = "mailto:michael0387nascimento@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/michael-nascimento-11a451176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:michael0387nascimento@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michael-nascimento-11a451176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
-  ![Snake animation](https://github.com/michael-sn/michael-sn/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/Michael-SN/Michael-SN/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+
+  
