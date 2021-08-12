@@ -1,9 +1,14 @@
-## 👽 _Michael Nascimento_ 🤘🏾👨🏾‍🎓👨🏾‍💻
+<!-- ## 👽 _Michael Nascimento_ 🤘🏾👨🏾‍🎓👨🏾‍💻 -->
+<div>
+  <img align="center" alt="Profile Image" height="auto" widh="100%" src="presentation.gif" />  
+</div>
+
+##
 
 <div style="display: inline-block">
   <a href="https://github.com/Michael-SN">
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=michael-sn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&text_color=#f1af09"/>
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sn&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michael-sn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&text_color=#f1af09"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-sn&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </div>
 
  
