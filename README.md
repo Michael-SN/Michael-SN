@@ -1,10 +1,6 @@
-<!-- ## 👽 _Michael Nascimento_ 🤘🏾👨🏾‍🎓👨🏾‍💻 -->
-<div>
-  <img align="center" alt="Profile Image" height="auto" widh="100%" src="presentation.gif" />  
-</div>
+## 👽 _Michael Nascimento_ 🤘🏾👨🏾‍🎓👨🏾‍💻
 
-##
-
+--
 <div>
   <a href="https://github.com/Michael-SN?tab=repositories">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=michael-sn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
